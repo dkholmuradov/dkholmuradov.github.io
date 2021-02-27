@@ -1,0 +1,30 @@
+body {
+	background-color: lightblue;
+	margin: 0 auto;
+	max-width: 50em;
+	border: 2px solid black;
+}
+p{
+	text-align: center;
+}
+pre{
+	text-align: center;
+	color: #A75513
+}
+h1, h2{
+	color: #B40F0F;
+	text-align: center;
+}
+
+#courses{
+	font-family: Tahoma;
+}
+a{
+	color:#9416AB;
+}
+a:visited{
+	color: #15900C
+}
+a:hover{
+	color: yellow;
+}
